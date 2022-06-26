@@ -1,4 +1,4 @@
-package Tests;
+package UsuarioTeste;
 
 import API.AcessoAPI;
 import API.Usuario;

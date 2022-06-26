@@ -9,9 +9,11 @@ Projeto de automação de testes API para prova Renner.
  - Maven instalado e configurado no path da aplicação.
  - Clonar o projeto para sua máquina: git clone https://github.com/Edson86Nunes/prova-DBC-Renner--API
  - Abrir na sua IDE de preferencia
- - mvn test
+ - executar: mvn test
 
-OBS: O relatório de execução está em: prova_renner_API\target\cucumber-report\index.html
+    Evidência:
+
+![evidenciaAPI](https://user-images.githubusercontent.com/51981001/175834419-5a6d5c1e-a3be-4db7-a4c6-6b8c8a91cf89.PNG)
 
   
 
